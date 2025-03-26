@@ -1,0 +1,7 @@
+streamlit
+edge_tts
+streamlit_pdf_viewer
+langchain_openai
+langchain
+langchain-commnnity
+faiss-cpu
