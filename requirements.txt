@@ -3,5 +3,5 @@ edge_tts
 streamlit_pdf_viewer
 langchain_openai
 langchain
-langchain-commnnity
+langchain-community
 faiss-cpu
