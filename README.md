@@ -80,9 +80,6 @@ voice-chat-agent/
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and create a pull request with suggested improvements or new features.
 
-## License
-This project is licensed under the **MIT License**.
-
 ## Contact
 For any queries, reach out to **Devendra Parihar**:
 
