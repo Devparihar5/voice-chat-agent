@@ -135,7 +135,7 @@ else:
                 f.write(audio_value.getbuffer())
                     
             # Use OpenAI v1.0.0+ API for transcription
-            client = openai.Client()
+            client = openai.Client(api_key=openai_api_key)
             if audio_path.exists():
                 with open(audio_path, "rb") as audio_file:
                     transcript = client.audio.transcriptions.create(
